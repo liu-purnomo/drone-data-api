@@ -1,0 +1,30 @@
+{
+  "id": "dji",
+  "name": "DJI",
+  "official_name": "SZ DJI Technology Co., Ltd.",
+  "logo_url": "https://raw.githubusercontent.com/liu-purnomo/drone-data-api/main/images/brand/dji.png",
+  "website_url": "https://www.dji.com",
+  "origin_country": "China",
+  "headquarters": "Shenzhen, Guangdong, China",
+  "founded_year": 2006,
+  "description": "DJI is a global leader in developing and manufacturing innovative drone and camera technology for civilian, commercial, and recreational use. The company is renowned for its advanced flight control systems, camera stabilization, and integrated aerial platforms.",
+  "contact_info": {
+    "email": "cs.apac@dji.com",
+    "phone_number": "+86-755-26659850",
+    "address": "14th Floor, West Wing, Skyworth Semiconductor Design Building, No.18 Gaoxin South 4th Ave, Nanshan District, Shenzhen, China"
+  },
+  "social_media": {
+    "facebook": "https://www.facebook.com/DJI",
+    "twitter": "https://twitter.com/DJIGlobal",
+    "instagram": "https://www.instagram.com/djiglobal/",
+    "youtube": "https://www.youtube.com/user/djiinnovations"
+  },
+  "key_products_categories": [
+    "Consumer Drones",
+    "Professional/Enterprise Drones",
+    "Camera Gimbals",
+    "Action Cameras",
+    "Educational Robotics"
+  ],
+  "last_updated": "2025-07-26T14:55:00Z"
+}

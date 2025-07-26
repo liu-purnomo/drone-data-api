@@ -1,0 +1,29 @@
+{
+  "id": "litchi",
+  "name": "Litchi for DJI Drones",
+  "developer": "VC Technology Ltd",
+  "type": "Third-Party",
+  "logo_url": "https://raw.githubusercontent.com/liu-purnomo/drone-data-api/main/images/apps/litchi.png",
+  "website_url": "https://flylitchi.com/",
+  "pricing_model": "Paid (One-time)",
+  "supported_platforms": ["Android", "iOS", "Windows", "macOS"],
+  "primary_features": [
+    "Waypoint Missions",
+    "Follow Me",
+    "Orbit Mode",
+    "Panorama",
+    "Focus Mode",
+    "VR Mode",
+    "Flight Logging"
+  ],
+  "description": "Litchi is a popular third-party flight control application that unlocks advanced mission modes and features for a wide range of DJI drones, often surpassing the capabilities of official DJI apps in specific areas.",
+  "supported_drone_models_ids": [
+    "dji-mavic-2-pro",
+    "dji-mavic-air",
+    "dji-phantom-4",
+    "dji-spark",
+    "dji-mini-2",
+    "dji-mini-3-pro"
+  ],
+  "last_updated": "2025-07-26T23:00:00Z"
+}

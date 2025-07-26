@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dji-mavic-4-pro",
+    "name": "DJI Mavic 4 Pro",
+    "brand_id": "dji",
+    "model": "Mavic 4 Pro",
+    "category": "Professional",
+    "image_thumbnail_url": "https://raw.githubusercontent.com/liu-purnomo/drone-data-api/main/images/drones/dji-mavic-4-pro-thumb.jpg",
+    "estimated_price_usd": 2499,
+    "short_description": "Advanced professional drone featuring omnidirectional obstacle sensing, an upgraded O4 video transmission system, and a powerful dual-camera system (4/3-inch CMOS wide-angle and 7x optical tele camera). Designed for high-quality aerial photography and videography."
+  }
+]

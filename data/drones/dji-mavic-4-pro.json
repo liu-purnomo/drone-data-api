@@ -1,0 +1,115 @@
+{
+  "id": "dji-mavic-4-pro",
+  "name": "DJI Mavic 4 Pro",
+  "brand_id": "dji",
+  "model": "Mavic 4 Pro",
+  "category": "Professional",
+  "short_description": "Advanced professional drone featuring omnidirectional obstacle sensing, an upgraded O4 video transmission system, and a powerful dual-camera system (4/3-inch CMOS wide-angle and 7x optical tele camera). Designed for high-quality aerial photography and videography.",
+  "release_year": 2025,
+  "image_url": "https://raw.githubusercontent.com/liu-purnomo/drone-data-api/main/images/drones/dji-mavic-4-pro-full.jpg",
+  "image_thumbnail_url": "https://raw.githubusercontent.com/liu-purnomo/drone-data-api/main/images/drones/dji-mavic-4-pro-thumb.jpg",
+  "estimated_price_usd": 2499.0,
+  "production_status": "Active",
+  "key_features": [
+    "Omnidirectional Obstacle Sensing",
+    "O4 Video Transmission",
+    "Dual-Camera System (Wide-Angle & Tele)",
+    "4K/120fps Video",
+    "ActiveTrack 6.0",
+    "GPS/Galileo/BeiDou GNSS",
+    "46 Minutes Max Flight Time"
+  ],
+  "review_url": "https://dronexl.co/2025/04/25/dji-mavic-4-full-webshop-specs-pics-features/",
+  "specifications": {
+    "max_flight_time_minutes": 46,
+    "max_hover_time_minutes": 40,
+    "max_control_range_km": 20.0,
+    "weight_g": 953,
+    "num_rotors": 4,
+    "max_speed_kmh": 72.0,
+    "max_payload_weight_g": 0,
+    "wind_resistance_kmh": 43.2,
+    "operating_environment": ["Outdoor", "Urban", "Sub-zero (limited)"],
+    "additional_specs": {
+      "max_ascend_speed_mps": 10,
+      "max_descend_speed_mps": 10,
+      "max_horizontal_speed_mps": 23,
+      "wind_resistance_mps": 12,
+      "operating_temp_celsius_range": "-10 to 40",
+      "gnss_systems": ["GPS", "Galileo", "BeiDou"],
+      "video_transmission_system": "O4",
+      "live_view_quality": "1080p/60fps",
+      "internal_storage_gb": 8,
+      "sd_card_slot_type": "microSD",
+      "vision_sensing_system": "Omnidirectional Binocular Vision System, bottom IR",
+      "battery_type": "LiPo 4S",
+      "battery_capacity_mah": 5000,
+      "charger_output": "100W"
+    }
+  },
+  "tags": [
+    { "tag_name": "Aerial Photography", "tag_category": "Usage" },
+    { "tag_name": "Videography", "tag_category": "Usage" },
+    { "tag_name": "Professional", "tag_category": "Usage" },
+    { "tag_name": "Obstacle Avoidance", "tag_category": "Feature" },
+    { "tag_name": "Long Flight Time", "tag_category": "Feature" },
+    { "tag_name": "4K Video", "tag_category": "Feature" },
+    { "tag_name": "Compact Foldable", "tag_category": "Form Factor" }
+  ],
+  "camera_payloads": [
+    {
+      "id": "dji-mavic-4-pro-wide-camera",
+      "name": "Wide-Angle Hasselblad L2D-20c Camera",
+      "type": "Visual Camera",
+      "sensor_size": "4/3-inch CMOS",
+      "max_video_resolution": "5.1K@50fps",
+      "max_photo_resolution": "20MP",
+      "iso_range": "100-6400 (Video), 100-12800 (Photo)",
+      "aperture": "f/2.8 - f/11",
+      "focal_length_mm_equivalent": "24",
+      "additional_payload_specs": {
+        "lens_construction": "11 elements in 10 groups",
+        "fov_degrees": 82.1,
+        "shutter_speed": "8-1/8000s",
+        "video_formats": ["MP4/MOV (MPEG-4 AVC/H.264, HEVC/H.265)"],
+        "photo_formats": ["JPEG/DNG"]
+      }
+    },
+    {
+      "id": "dji-mavic-4-pro-tele-camera",
+      "name": "7x Optical Tele Camera",
+      "type": "Visual Camera",
+      "sensor_size": "1/2-inch CMOS",
+      "max_video_resolution": "4K@120fps",
+      "max_photo_resolution": "12MP",
+      "iso_range": "100-6400 (Video), 100-12800 (Photo)",
+      "aperture": "f/4.4",
+      "focal_length_mm_equivalent": "162",
+      "additional_payload_specs": {
+        "optical_zoom": "7x",
+        "digital_zoom": "28x",
+        "fov_degrees": 15,
+        "shutter_speed": "8-1/8000s",
+        "video_formats": ["MP4/MOV (MPEG-4 AVC/H.264, HEVC/H.265)"],
+        "photo_formats": ["JPEG/DNG"]
+      }
+    }
+  ],
+  "available_from": [
+    {
+      "seller_id": "bh-photo",
+      "seller_name": "B&H Photo Video",
+      "product_url": "https://www.bhphotovideo.com/c/product/1886938-REG/dji_cp_ma_00000848_01_mavic_4_pro_drone.html",
+      "price_usd": 2499.0,
+      "last_checked": "2025-07-26T22:15:00Z"
+    },
+    {
+      "seller_id": "erafone-id",
+      "seller_name": "Erafone",
+      "product_url": "https://erafone.com/produk/dji-mavic-4-pro-camera-drone",
+      "price_idr": 42999000.0,
+      "last_checked": "2025-07-26T22:15:00Z"
+    }
+  ],
+  "last_updated": "2025-07-26T22:15:00Z"
+}
