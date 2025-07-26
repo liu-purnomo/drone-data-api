@@ -18,12 +18,26 @@
   ],
   "description": "Litchi is a popular third-party flight control application that unlocks advanced mission modes and features for a wide range of DJI drones, often surpassing the capabilities of official DJI apps in specific areas.",
   "supported_drone_models_ids": [
-    "dji-mavic-2-pro",
-    "dji-mavic-air",
-    "dji-phantom-4",
-    "dji-spark",
     "dji-mini-2",
-    "dji-mini-3-pro"
+    "dji-mini-se",
+    "dji-air-2s",
+    "dji-mavic-mini",
+    "dji-mavic-air-2",
+    "dji-mavic-2-pro",
+    "dji-mavic-2-zoom",
+    "dji-mavic-air",
+    "dji-mavic-pro",
+    "dji-phantom-4",
+    "dji-phantom-4-advanced",
+    "dji-phantom-4-pro",
+    "dji-phantom-4-pro-v2-0",
+    "dji-phantom-3-standard",
+    "dji-phantom-3-4k",
+    "dji-phantom-3-advanced",
+    "dji-phantom-3-professional",
+    "dji-inspire-1",
+    "dji-inspire-2",
+    "dji-spark"
   ],
   "last_updated": "2025-07-26T23:00:00Z"
 }
